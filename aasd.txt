@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+1>C:\Users\Public\Documents\Unity Projects\Endless\Assets\scripts\move.cs(6,11,6,12): warning CS0414: The field 'move.a' is assigned but its value is never used
+1>  Assembly-CSharp -> C:\Users\Public\Documents\Unity Projects\Endless\Temp\bin\Debug\Assembly-CSharp.dll
+========== Build: 1 succeeded, 0 failed, 2 up-to-date, 0 skipped ==========

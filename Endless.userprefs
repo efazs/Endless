@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\text.cs">
+    <Files>
+      <File FileName="Assets\scripts\pshooter.cs" Line="63" Column="9" />
+      <File FileName="Assets\scripts\TileManager.cs" Line="66" Column="2" />
+      <File FileName="Assets\scripts\move.cs" Line="43" Column="1" />
+      <File FileName="Assets\scripts\text.cs" Line="18" Column="18" />
+      <File FileName="Assets\scripts\moveplay.cs" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
